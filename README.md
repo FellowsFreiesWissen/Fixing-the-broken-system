@@ -1,7 +1,3 @@
-# Fixing-the-broken-system
-Hilfe, die empirischen Wissenschaften stecken in der Krise, wie kommen wir da wieder raus? 
-
-
 Fellow-Programm Freies Wissen 2018/2019
 Qualifizierungsworkshop 11. - 12.02.2019 @ Museum für Naturkunde Berlin
 
@@ -9,7 +5,7 @@ Session: Fixing the broken system
 
 Referent\*in: Rima-Maria Rahal & Felix Henninger
 
-# 1Fixing the broken system
+# Fixing the broken system
 ## Oder: Hilfe, die empirischen Wissenschaften stecken in der Krise, wie kommen wir da wieder raus?
 
 Entstanden im Nachtrag zum Vortrag „Falsche Anreize und statistische Rituale" (Gerd Gigerenzer, 11.02.2019, https://tools.wmflabs.org/scholia/author/Q108184).
