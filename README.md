@@ -1,5 +1,5 @@
 Fellow-Programm Freies Wissen 2018/2019
-Qualifizierungsworkshop 11. - 12.02.2019 @ Museum für Naturkunde Berlin
+Qualifizierungsworkshop 11.-12.02.2019 @ Museum für Naturkunde Berlin
 Referent\*in: Rima-Maria Rahal & Felix Henninger
 
 # Fixing the broken system
